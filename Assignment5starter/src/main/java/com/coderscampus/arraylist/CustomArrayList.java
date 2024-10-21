@@ -1,4 +1,3 @@
-
 package com.coderscampus.arraylist;
 
 public class CustomArrayList<T> implements CustomList<T> {
@@ -19,7 +18,7 @@ public class CustomArrayList<T> implements CustomList<T> {
 		Object[] newArray = new Object[size * 2];
         if (size >= 0) System.arraycopy(items, 0, newArray, 0, size);
 		return newArray;  // my line is this: for (int i = 0; i < size; i++) {
-	}					  // versus what IntelliJ suggested (line20), as far as 'clean up code'
+	}			  // versus what IntelliJ suggested (line20), as far as 'clean up code'
 
 	@Override
 	public int getSize() {
