@@ -15,3 +15,7 @@ Follow Trevor's video
 Request For Feedback
 
 This project is released in beta. Please slack Pete directly, if you have any difficulties using this project in it's current state.
+
+© Coders Campus 2024
+Version: 2.0.0.0
+Privacy Policy | Terms of Service
